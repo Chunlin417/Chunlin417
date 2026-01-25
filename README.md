@@ -1,19 +1,13 @@
-<!-- Profile README for Chunlin417 (Chunlin He) -->
+👋 Hi, I'm Chunlin He  
+Frontend Developer | Next.js / React  
+📍 Toronto, Canada  
+
 🔗 Portfolio: https://chunlin-he.vercel.app
 
-# 👋 Hi, I’m Chunlin He (Chunlin417)
-
-Front-end Developer based in Toronto, ON 🇨🇦
-I build **clean, responsive, and scalable web experiences** with a strong focus on **usability**, **performance optimization**, and **maintainable architecture**.
-
----
-
-## 🔥 What I’m focused on
-
-* Building production-grade UI with **Next.js / React / MUI**
-* Turning **Figma** into **pixel-accurate** responsive components
-* Improving form UX: validation, error handling, loading states, edge cases
-* Writing clean code with good Git branching habits and readable structure
+## 🚀 Featured Projects
+- 🔐 Auth UI (Next.js + MUI) — Login / Signup / Forgot Password
+- 🧩 Campaign Management UI — multi-step workflow, checklist, expansion
+- 🌐 Personal Portfolio — responsive, SEO-ready, deployed on Vercel
 
 ---
 
